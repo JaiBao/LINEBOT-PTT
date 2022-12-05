@@ -1,0 +1,405 @@
+{
+  "type": "flex",
+  "altText": "足球",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Re: [新聞] 「這對我們不公平！」南韓主帥大戰巴西",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "uri",
+                "label": "點我觀看網頁",
+                "uri": "https://www.ptt.cc//bbs/WorldCup/M.1670208757.A.507.html"
+              }
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "[討論] 孫興慜在巴西英格蘭等國家能先發嗎",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "uri",
+                "label": "點我觀看網頁",
+                "uri": "https://www.ptt.cc//bbs/WorldCup/M.1670209953.A.950.html"
+              }
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "[問題] 姆巴佩的慶祝動作",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "uri",
+                "label": "點我觀看網頁",
+                "uri": "https://www.ptt.cc//bbs/WorldCup/M.1670211160.A.CD0.html"
+              }
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "[新聞] 韓國世足賽這項奪冠！粉絲狂吼「大韓",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "uri",
+                "label": "點我觀看網頁",
+                "uri": "https://www.ptt.cc//bbs/WorldCup/M.1670214270.A.BED.html"
+              }
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "[新聞] 世足》新王駕到！打破比利60年紀錄",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "uri",
+                "label": "點我觀看網頁",
+                "uri": "https://www.ptt.cc//bbs/WorldCup/M.1670214820.A.4C8.html"
+              }
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "[新聞] 梅西千場出賽還進球 阿根廷闖8強",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "uri",
+                "label": "點我觀看網頁",
+                "uri": "https://www.ptt.cc//bbs/WorldCup/M.1670215073.A.FB0.html"
+              }
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "[新聞] 馬克宏神預言！世足「法國3：1勝波蘭」",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "uri",
+                "label": "點我觀看網頁",
+                "uri": "https://www.ptt.cc//bbs/WorldCup/M.1670215354.A.9D2.html"
+              }
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "[討論] 大家心中的完美劇本",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "uri",
+                "label": "點我觀看網頁",
+                "uri": "https://www.ptt.cc//bbs/WorldCup/M.1670217117.A.535.html"
+              }
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "[新聞] 索斯蓋特：法國是我們的最大考驗",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "uri",
+                "label": "點我觀看網頁",
+                "uri": "https://www.ptt.cc//bbs/WorldCup/M.1670217685.A.A95.html"
+              }
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "[新聞] 不是爆冷！日本足球為什麼愈來愈強？",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "uri",
+                "label": "點我觀看網頁",
+                "uri": "https://www.ptt.cc//bbs/WorldCup/M.1670218403.A.E65.html"
+              }
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "[問題] 為何阿根廷和澳州的門將不愛撿球?",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "uri",
+                "label": "點我觀看網頁",
+                "uri": "https://www.ptt.cc//bbs/WorldCup/M.1670222895.A.8BF.html"
+              }
+            }
+          ],
+          "flex": 0
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "[討論] 中華足協理事長現在再忙什麼？",
+              "weight": "bold",
+              "size": "sm"
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "uri",
+                "label": "點我觀看網頁",
+                "uri": "https://www.ptt.cc//bbs/WorldCup/M.1670223470.A.0EA.html"
+              }
+            }
+          ],
+          "flex": 0
+        }
+      }
+    ]
+  }
+}

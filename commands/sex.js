@@ -7,7 +7,8 @@ export default async (event) => {
   try {
     const { data } = await axios.get('https://www.ptt.cc/bbs/sex/index.html', {
       headers: {
-        'Accept-Encoding': 'text/html'
+        'Accept-Encoding': 'text/html',
+        cookie: 'over18=1;'
       }
     })
     const $ = cheerio.load(data)

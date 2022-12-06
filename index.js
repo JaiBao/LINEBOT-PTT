@@ -45,7 +45,6 @@ bot.on('message', event => {
   } else if (event.message.text.startsWith('韓')) {
     koreaStar(event)
   } else if (event.message.text.startsWith('足球')) {
-    event.reply('./bnt/bnt.js')
     worldCup(event)
   } else {
     event.reply(`

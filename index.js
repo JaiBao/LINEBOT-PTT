@@ -13,7 +13,7 @@ import sex from './commands/sex.js'
 import stock from './commands/stock.js'
 import womenTalk from './commands/womenTalk.js'
 import worldCup from './commands/worldCup.js'
-import bnt from './bnt/bnt.js'
+
 
 const bot = linebot({
   channelId: process.env.CHANNEL_ID,
